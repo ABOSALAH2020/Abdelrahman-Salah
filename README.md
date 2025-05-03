@@ -1,111 +1,96 @@
-<!-- Profile Banner -->
-<img src="https://i.imgur.com/Z7bXxyL.gif" alt="Gamer Banner" width="100%"/>
-
-<h1 align="center">🎮 Abdelrahman Salah</h1>
-<h3 align="center">Junior Game Developer | STEAM Experience Designer | XR Curriculum Architect | EdTech Alchemist</h3>
-
----
-
-## 🌟 About Me
-
-Hey there! I'm **Abdelrahman Salah**, a passionate game developer and STEAM curriculum magician blending storytelling, tech, and fun to craft epic educational adventures.
-
-🧠 I believe **learning should feel like playing a game** – with characters, missions, puzzles, and imagination leading the way.
-
-🚀 Whether it's coding in Unity, building Arduino gadgets, or crafting XR worlds, I'm always looking for new ways to **make education unforgettable**.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processingfoundation&logoColor=white"/>
-</p>
-
-### 🕹️ Game Engines & EdTech Platforms
-<p>
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Processing-1B1B1B?style=for-the-badge&logo=processingfoundation&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Livit Studio-0088CC?style=for-the-badge&logo=steam&logoColor=white"/>
+<h1 align="center">🎮 Welcome, I'm Abdelrahman Salah (Icarus) 🎮</h1>
+<h3 align="center">⚙️ Game Developer |  STEAM Curriculum Designer | 🤖 Maker | 🧠 EdTech Innovator ⚙️</h3>
+<p align="center">I'm a passionate developer and STEAM education specialist who creates story-based, hands-on learning experiences that blend **games, electronics, storytelling**, and **interactive technology**. From **Arduino adventures** to **AI Sudoku solvers** and **VR learning worlds**, I love building playful, immersive tools that teach kids how to create, code, and explore.
 </p>
 
 ---
 
-## 🚧 Featured Projects
+### 🧠 About Me
 
-| Project | Description |
-|--------|-------------|
-| 🌍 **Arduino Junior** | A full-blown STEAM curriculum in space! 7 themed planets, 80+ missions, and character-led adventures teaching electronics & logic to kids 6–9. |
-| 🧠 **AI Sudoku Solver** | GUI-based Python app using DFS, BFS, and heuristic search to solve Sudoku puzzles. |
-| 🎮 **Logic Mini-Games** | XR and 3D logic games for teaching sensors and programming to young learners. |
-| 🛠️ **Rapid Prototyping Projects** | Electronics-based systems with Fusion 360 models, PCBs, and laser-cut enclosures for client MVPs. |
-
----
-
-## 🧠 Experience Highlights
-
-### 🏫 LIVIT Education
-**STEAM Curriculum Developer & Game Developer**  
-*June 2024 – Present*
-
-- 🎯 Created the **Arduino Junior Learning Universe** for kids aged 6–9.
-- 🛠️ Developed 15+ custom projects (Waving Arm, LED Matrix Sound Control, Car Alarm...).
-- 🕹️ Built XR & 3D games to teach coding using **Unity, Processing**, and **Livit Studio**.
-
-**Curriculum Developer**  
-*March 2023 – June 2023*
-
-- 📚 Designed progressive STEAM modules using sensors and storytelling.
-- 🧩 Built gamified quizzes and puzzles for every lesson.
-
-**Technical Operations Engineer**  
-*June 2023 – April 2024*
-
-- 🧪 Managed performance of learning systems & handled deployments of game-based platforms.
-
-**Game Developer**  
-*April 2024 – Present*
-
-- 🎮 Built story-based logic mini-games with interactive missions.
+- 🧑‍🏫 Designed **Arduino Junior Universe**: a full, story-based STEAM curriculum for kids aged 6–9
+- 🧠 Created **80+ Arduino projects** using Blockduino, sensors, storytelling, and icon-based programming
+- 🛠️ Developed a **GUI AI Sudoku Solver** with DFS, BFS, and heuristic solving methods
+- 🎮 Build 3D games and XR learning experiences using Unity, Livit XR Engine & Processing
+- 👨‍🔬 Maker enthusiast: PCB design, 3D printing, laser cutting, and rapid prototyping
 
 ---
 
-## 🏅 Gamer Dev Achievements
+### 💡 Languages
 
-- 🪐 Creator of the **first Arduino-based STEAM learning galaxy** with real missions!
-- 👨‍🏫 Taught 200+ kids to **code with joy** using storytelling & game-based methods.
-- 🧩 Delivered **80+ STEAM Projects** from KG2 to G12.
-- 🤖 Built real hardware that **talks, blinks, moves, and plays!**
-- 🕶️ Explorer of the **XR world** in education using Livit Studio’s XR Engine.
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="100" height="100"/> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                     
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="100" height="100"/>&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="100" height="100"/>&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="100" height="100"/>&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://static-00.iconduck.com/assets.00/java-original-icon-756x1024-j3tx11wk.png" alt="Python" width="100" height="100"/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  
+</p>
 
 ---
 
-## ⚡ Let's Connect!
+### 🎮 Game Engine & Tools
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="100" height="100"/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="100" height="100"/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Processing_3_logo.png" alt="Processing3" width="100" height="100"/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://play-lh.googleusercontent.com/SZawMSqY8p8vulN7o9PNdPxKBOOk825s5UJCtoM8zLBI3wvpYU56vCvhaSLHAdKBMIA" alt="Livit Studio" width="100" height="100"/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://costechcomputers.com.ng/wp-content/uploads/2024/02/autodesk-fusion-product-icon-400.webp" alt="Fusion360" width="100" height="100"/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/939px-Blender_logo_no_text.svg.png" alt="Fusion360" width="100" height="100"/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+ </p>
+ 
+- 🧠 **Unity** (C#) 
+- 🧩 **Livit Studio XR Engine**
+- 📦 **Blockduino Kit** (Hardware-based learning)
+- 🧪 VR/AR, Processing 3, Arduino IDE
 
-<p>
-  <a href="https://www.linkedin.com/in/abdelrahman-salah/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1E1E1E?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+---
+
+### 📚 Projects & Creations
+
+- 🚗 **Smart Car Parking System** using Arduino
+- 🎨 **LED Matrix Drawing App** for kids
+- 🔊 **Sound Sensor Buzzer Alarm** project
+- 💡 **Light-controlled LEDs** and LDR experiments
+- 🦾 **Robot Arm MeArm (v3) Projects** – 12 unique control-based tasks
+- 🌍 **Arduino Junior: Story-based Planetary Adventures** (80+ interactive missions)
+- 🧠 **Blockduino + XR Curriculum** – merging real-world kits with digital simulations
+- 🎮 **2-level Game in Processing 3** (Final Year Project)
+- 📦 40-lesson project-based curriculum covering Arduino, sensors, and control theory
+
+---
+
+### 🚀 STEAM Experience
+
+- 🏫 Designed STEAM curriculums for K–12 using hands-on electronics
+- 🤖 Developed **child-friendly programming interfaces** using icon-based coding
+- 🎓 Created **educational games** & XR experiences to teach coding and physics
+- 📚 Bridged theory and fun through **hardware + storytelling adventures**
+
+---
+
+### 🏆 GitHub Stats & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=A-Hemeda&theme=darkhub&margin-w=15&no-frame=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=A-Hemeda&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Hemeda&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 📬 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/a-hemeda" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" /></a>
+  <a href="mailto:ahmedhemeda@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="40" /></a>
+  <a href="https://wa.me/201020304050"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="whatsapp" height="40" width="40" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="200">
-</p>
-
-<p align="center">
-  <b>Leveling up education, one game at a time 🎮</b>
+  <img src="https://komarev.com/ghpvc/?username=A-Hemeda&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
