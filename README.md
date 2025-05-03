@@ -71,12 +71,11 @@
 ### 🏆 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=A-Hemeda&theme=darkhub&margin-w=15&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ABOSALAH2020&theme=darkhub&margin-w=15&no-frame=true" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-Hemeda&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Hemeda&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ABOSALAH2020&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABOSALAH2020&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -84,13 +83,13 @@
 ### 📬 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/a-hemeda" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" /></a>
-  <a href="mailto:ahmedhemeda@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="40" /></a>
-  <a href="https://wa.me/201020304050"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="whatsapp" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/abdelrahman-salah-mohamed" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" /></a>
+  <a href="abdelrahmanthegost2015@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="40" /></a>
+  <a href="https://wa.me/201272220590"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="whatsapp" height="40" width="40" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=A-Hemeda&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=ABOSALAH2020&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
